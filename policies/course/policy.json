@@ -1,0 +1,47 @@
+{
+    "course/course": {
+        "advertised_start": "Anytime", 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-IIITH-cse29-course-cse29"
+            }
+        }, 
+        "display_name": "Cryptography Lab", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "learning_info": [], 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/cse29.xml", 
+                "course/cse29.xml"
+            ]
+        }
+    }
+}

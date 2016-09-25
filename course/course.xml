@@ -1,0 +1,14 @@
+<course advertised_start="Anytime" display_name="Cryptography Lab" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="__Breaking_the_Shift_Cipher_"/>
+  <chapter url_name="_Breaking_the_Mono-alphabetic_Substitution_Cipher_"/>
+  <chapter url_name="_One-Time_Pad_and_Perfect_Secrecy_"/>
+  <chapter url_name="_Message_Authentication_Codes"/>
+  <chapter url_name="_Cryptographic_Hash_Functions_and_Applications_"/>
+  <chapter url_name="_Symmetric_Key_Encryption_Standards"/>
+  <chapter url_name="__Symmetric_Key_Encryption_Standards"/>
+  <chapter url_name="_Diffie-Hellman_Key_Establishment_"/>
+  <chapter url_name="__Public-Key_Cryptosystems"/>
+  <chapter url_name="_Digital_Signatures_"/>
+  <wiki slug="IIITH.bsa.Anytime"/>
+</course>
